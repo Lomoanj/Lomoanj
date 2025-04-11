@@ -24,7 +24,7 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 ---
 
 ## 📂 Projects
-Check out my data analytics projects in the pinned repositories below.
+Check out my data analytics projects in the pinned repositories below.  
 [Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)
 
 ---
