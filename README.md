@@ -25,9 +25,9 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 
 ## 📂 Projects
 Check out my data analytics projects in the pinned repositories below.  
-[Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)  
-[Hotel Booking Cancellation Insights](https://github.com/Lomoanj/Hotel-Cancellation-Insights)  
-[HR Analytics](https://github.com/Lomoanj/HR-Analytics)
+[Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)   
+[HR Analytics](https://github.com/Lomoanj/HR-Analytics)  
+[Hotel Booking Cancellation Insights](https://github.com/Lomoanj/Hotel-Cancellation-Insights) 
 
 ---
 
