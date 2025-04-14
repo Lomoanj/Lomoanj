@@ -27,6 +27,7 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 Check out my data analytics projects in the pinned repositories below.  
 [Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)   
 [HR Analytics](https://github.com/Lomoanj/HR-Analytics)  
+[SQL Pizza Order Analysis](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis)  
 [Hotel Booking Cancellation Insights](https://github.com/Lomoanj/Hotel-Cancellation-Insights) 
 
 ---
