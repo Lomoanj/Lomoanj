@@ -8,7 +8,7 @@
 🎯 **Data Analyst | Excel | SQL | Power BI | Tableau | Python**
 
 ---
-<img align="right" alt="Data Analyst" width="250" src="img.gif">
+<img align="right" alt="Data Analyst" width="250" src="Gif1.gif">
 
 ## 🧠 About Me
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in:
