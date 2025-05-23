@@ -8,7 +8,7 @@
 🎯 **Data Analyst | Excel | SQL | Power BI | Tableau | Python**
 
 ---
-<img align="right" alt="Data Analyst" width="250" src="Gif1.gif">
+<img align="right" alt="Data Analyst" width="150" src="Gif1.gif">
 
 ## 🧠 About Me
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in:
@@ -28,7 +28,7 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
-<img align="right" alt="Data Analyst" width="250" src="img1.gif">
+<img align="right" alt="Data Analyst" width="150" src="img1.gif">
 
 ## 📂 Projects
 Check out my data analytics projects in the pinned repositories below.  
