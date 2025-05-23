@@ -14,7 +14,7 @@
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in:
 
 - 📊 Data Visualization (Power BI, Tableau)  
-- 📈 Data Analysis & Reporting (Excel, SQL, Python - Pandas)  
+- 📈 Data Analysis & Reporting (Excel, SQL, Python)  
 - 🗃️ Database Management (MySQL)  
 - 📚 Lifelong learner continuously building data skills  
 
