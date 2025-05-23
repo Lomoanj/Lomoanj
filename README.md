@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Lomoanj
+<h1 align="center">Hi 👋, I'm Lomoanj </h1>
+<h3 align="center">📊 Aspiring Data Analyst 📈 </h3>
+<h3 align="center"> Data Driven. Detail Oriented. Insight Focused.  </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Passionate+about+analytics+%26+insights;Let's+transform+raw+data+into+real+impact!" alt="Typing SVG" />
+</p>
 
 🎯 **Data Analyst | Excel | SQL | Power BI | Tableau | Python**
 
