@@ -32,6 +32,7 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 
 ## 📂 Projects
 Check out my data analytics projects in the pinned repositories below.  
+[Global Bicycle Sales Dashboard](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards)  
 [Olist Business Analytics Case](https://github.com/Lomoanj/Olist-Business-Analytics-Case)  
 [Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)  
 [HR Analytics](https://github.com/Lomoanj/HR-Analytics)  
