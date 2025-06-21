@@ -32,13 +32,13 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 
 ## 📂 Projects
 Check out my data analytics projects in the pinned repositories below.  
-[Global Bicycle Sales Dashboard](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards)  
-[Olist Business Analytics Case](https://github.com/Lomoanj/Olist-Business-Analytics-Case)  
-[Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)  
-[HR Analytics](https://github.com/Lomoanj/HR-Analytics)  
-[Road Accident Analysis Dashboard](https://github.com/Lomoanj/Road-Accident-Analysis-Dashboard)  
-[SQL Pizza Order Analysis](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis)  
-[Hotel Booking Cancellation Insights](https://github.com/Lomoanj/Hotel-Cancellation-Insights) 
+- [Global Bicycle Sales Dashboard](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards)  
+- [Olist Business Analytics Case](https://github.com/Lomoanj/Olist-Business-Analytics-Case)  
+- [Banking Data Analysis](https://github.com/Lomoanj/Banking-Data-Analysis.git)  
+- [HR Analytics](https://github.com/Lomoanj/HR-Analytics)  
+- [Road Accident Analysis Dashboard](https://github.com/Lomoanj/Road-Accident-Analysis-Dashboard)  
+- [SQL Pizza Order Analysis](https://github.com/Lomoanj/SQL-Pizza-Order-Analysis)  
+- [Hotel Booking Cancellation Insights](https://github.com/Lomoanj/Hotel-Cancellation-Insights) 
 
 ---
 
